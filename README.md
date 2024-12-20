@@ -1,4 +1,4 @@
-# Game Theory Workshop 2 - Part 2: Minimax Algorithm Solution
+# Game Theory: Minimax Algorithm Solution
 
 This repository contains the code to solve the second part of the "Game Theory Workshop 2" problem, where two players take turns moving left ('L') or right ('R') through a sequence of nodes. The goal is to determine the optimal sequence of moves using the minimax algorithm.
 
